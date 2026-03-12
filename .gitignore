@@ -1,0 +1,23 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# Byte-compiled / cache
+*.ji
+*.so
+
+# Environments
+.julia/
+
+# Editors / OS
+.DS_Store
+*.swp
+*.swo
+
+# Logs and temp
+*.log
+*.tmp
+
+# Generated outputs
+output/
